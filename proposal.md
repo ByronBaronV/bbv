@@ -1,6 +1,6 @@
 # [Your Project Title]
 ## Project Description
-[Provide a brief overview of your project, 2-3 sentences]
+[Provide a brief overview of your project, 2-3 sentences]j
 ## Main Idea
 [Describe the core concept or functionality of your project]
 ## Technologies
